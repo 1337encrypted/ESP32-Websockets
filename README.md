@@ -13,8 +13,3 @@ For installation, the following libraries need to be installed:
 # How to use:
 Please refer to the following Youtube video:
 https://youtu.be/ZJnXKD0LqDo
-
-
-Have fun ;-)
-
-mo thunderz
